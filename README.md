@@ -1,4 +1,4 @@
-# operatingSystems
+# operatingSystems 0/63
 
 ## Билетики да темы:
 
