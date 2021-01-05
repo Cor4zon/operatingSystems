@@ -1,6 +1,7 @@
 # operatingSystems 0/63
 
 [Конспект лекций Хекслет](https://www.notion.so/f2e1f0c4250d448199e878bd6d996d67?v=bc4507d478fa4b278fe16a64ccfdd784)
+[статья про кучу всего](https://proglib.io/p/how-os-work)
 
 ## Список вопросов:
 
